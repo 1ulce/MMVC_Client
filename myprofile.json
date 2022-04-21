@@ -1,0 +1,18 @@
+{
+  "device": {
+    "input_device1":0,
+    "input_device2":false,
+    "output_device":4
+  },
+  "vc_conf": {
+    "frame_length":16384,
+    "overlap":1024,
+    "source_id":104,
+    "target_id":105
+  },
+  "path": {
+    "json":"/Users/shun/code/small-task/MMVC_Trainer/configs/jsontest.json",
+    "model":"/Users/shun/code/small-task/MMVC_Trainer/logs/20220306_24000/G_24000.pth",
+    "noise":"/Users/shun/code/small-task/MMVC_Client/noise.wav"
+  }
+}

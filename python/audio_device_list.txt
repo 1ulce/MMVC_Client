@@ -1,0 +1,5 @@
+Index : 0  デバイス名 : Built-in Microphone
+Index : 1  デバイス名 : Built-in Output
+Index : 2  デバイス名 : DisplayPort
+Index : 3  デバイス名 : Soundflower (2ch)
+Index : 4  デバイス名 : Soundflower (64ch)
